@@ -1,4 +1,4 @@
-package com.itmuch.usercenter.controller;
+package com.itmuch.usercenter;
 
 import com.itmuch.usercenter.dao.user.UserMapper;
 import com.itmuch.usercenter.domain.entity.user.User;
