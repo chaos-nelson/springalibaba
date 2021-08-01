@@ -18,10 +18,14 @@ spring:
         # namespace: 79b188a4-b5b3-45d6-9987-9bd278e94d04
         # NJ
         # 指定集群名称
-        # cluster-name: NJ
+#        cluster-name: NJ
         # 元数据
         metadata:
           instance: c
           haha: hehe
           version: v1
+server:
+  port: 8081
 
+rocketmq:
+  name-server: 127.0.0.1:9876
