@@ -1,2 +1,2 @@
 # springalibaba
-springalibaba入门学习
+SpringCloudAlibaba入门学习
